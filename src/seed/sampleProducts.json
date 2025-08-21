@@ -1,0 +1,179 @@
+[
+  {
+    "name": "Brake Disc Rotor Front",
+    "sku": "BR-001-F",
+    "brand": "Bosch",
+    "vehicle": {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": 2023
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/3807277/pexels-photo-3807277.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 2500,
+    "stock": 15,
+    "category": "Brake System",
+    "featured": true,
+    "description": "High-performance brake disc rotor designed for optimal stopping power and durability."
+  },
+  {
+    "name": "Engine Oil Filter",
+    "sku": "EF-002-STD",
+    "brand": "Mahle",
+    "vehicle": {
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": 2023
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 450,
+    "stock": 50,
+    "category": "Filters",
+    "featured": true,
+    "description": "Premium engine oil filter for superior filtration and engine protection."
+  },
+  {
+    "name": "LED Headlight Bulb H4",
+    "sku": "LED-H4-12V",
+    "brand": "Hella",
+    "vehicle": {
+      "make": "Tata",
+      "model": "Nexon",
+      "year": 2022
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 1200,
+    "stock": 25,
+    "category": "Lighting",
+    "featured": true,
+    "description": "Bright LED headlight bulb with excellent visibility and long lifespan."
+  },
+  {
+    "name": "Shock Absorber Rear",
+    "sku": "SA-R-001",
+    "brand": "Monroe",
+    "vehicle": {
+      "make": "Mahindra",
+      "model": "XUV700",
+      "year": 2023
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 3200,
+    "stock": 12,
+    "category": "Suspension",
+    "featured": true,
+    "description": "Heavy-duty shock absorber for smooth ride and excellent handling."
+  },
+  {
+    "name": "Alternator Belt",
+    "sku": "ALT-BELT-001",
+    "brand": "Gates",
+    "vehicle": {
+      "make": "Honda",
+      "model": "City",
+      "year": 2023
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 850,
+    "stock": 30,
+    "category": "Belts & Hoses",
+    "featured": true,
+    "description": "Durable alternator belt designed for reliable power transmission."
+  },
+  {
+    "name": "Spark Plugs Set of 4",
+    "sku": "SP-4SET-NGK",
+    "brand": "NGK",
+    "vehicle": {
+      "make": "Toyota",
+      "model": "Innova Crysta",
+      "year": 2022
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 1600,
+    "stock": 20,
+    "category": "Engine Parts",
+    "featured": true,
+    "description": "High-quality spark plugs for improved engine performance and fuel efficiency."
+  },
+  {
+    "name": "Brake Pad Set Front",
+    "sku": "BP-F-SET",
+    "brand": "Bosch",
+    "vehicle": {
+      "make": "Ford",
+      "model": "EcoSport",
+      "year": 2021
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 2200,
+    "stock": 18,
+    "category": "Brake System",
+    "description": "Premium brake pads for excellent stopping performance and reduced noise."
+  },
+  {
+    "name": "Air Filter",
+    "sku": "AF-001-STD",
+    "brand": "Mann-Filter",
+    "vehicle": {
+      "make": "Volkswagen",
+      "model": "Polo",
+      "year": 2023
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 650,
+    "stock": 35,
+    "category": "Filters",
+    "description": "High-efficiency air filter for clean air intake and engine protection."
+  },
+  {
+    "name": "Radiator",
+    "sku": "RAD-001-ALU",
+    "brand": "Valeo",
+    "vehicle": {
+      "make": "Maruti Suzuki",
+      "model": "Baleno",
+      "year": 2022
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 4500,
+    "stock": 8,
+    "category": "Engine Parts",
+    "description": "Aluminum radiator for efficient engine cooling and temperature regulation."
+  },
+  {
+    "name": "Clutch Kit Complete",
+    "sku": "CL-KIT-001",
+    "brand": "Valeo",
+    "vehicle": {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": 2023
+    },
+    "images": [
+      "https://images.pexels.com/photos/3593922/pexels-photo-3593922.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "price": 6500,
+    "stock": 6,
+    "category": "Engine Parts",
+    "description": "Complete clutch kit including plate, disc, and release bearing."
+  }
+]

@@ -1,0 +1,34 @@
+:root {
+  --color-primary: #F28C28;
+  --color-deep: #1C3C3A;
+  --color-bg: #F5ECE7;
+  --color-primary-dark: #E07B1A;
+  --color-deep-light: #2A5955;
+  --color-bg-light: #F8F2EE;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--color-bg);
+  font-family: Inter, system-ui, sans-serif;
+  line-height: 1.6;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.gradient-text {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-deep) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
